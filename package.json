@@ -1,0 +1,11 @@
+{
+  "name": "SoEasy",
+  "version": "",
+  "homepage": "https://github.com/Ozdenh/demo",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
