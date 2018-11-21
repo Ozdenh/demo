@@ -33,6 +33,6 @@ const intvl = setInterval(() => {
     clearInterval(intvl);
     // Style and output text
     countdown.style.color = '#17a2b8';
-    countdown.innerHTML = 'Launched!';
+    countdown.innerHTML = 'Almost there!';
   }
 }, 1000);
